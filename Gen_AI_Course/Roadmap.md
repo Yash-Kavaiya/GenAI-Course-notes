@@ -6,9 +6,9 @@ This roadmap is designed to help absolute beginners and those at different level
 
 #### **Different Positions or Levels:**
 
-1. **Developer Level 1 (Beginner Level)**
-2. **Developer Level 2 (Senior Level)**
-3. **Researcher Level**
+1. **Developer Level 1 (AI/ML Engineer) (0-3 Years experiences) (Beginner Level)**
+2. **Developer Level 2 (AI/ML Developer) (3+ Years experiences)(Senior Level)**
+3. **Researcher Level (AI/ML Researcher) **
 
 ---
 
@@ -23,16 +23,16 @@ This roadmap is designed to help absolute beginners and those at different level
 
 ### **2. Fundamentals**
 
-**Developer Level 1:**
+**Developer Level 1 (AI/ML Engineer):**
 - **Introduction to AI and Machine Learning**: Concepts, history, and applications.
 - **Neural Networks Basics**: Perceptrons, activation functions, loss functions, and optimization techniques.
 - **Basic Tools and Frameworks**: Introduction to TensorFlow and PyTorch.
 
-**Developer Level 2:**
+**Developer Level 2 (AI/ML Developer) :**
 - **Deep Learning**: Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), Long Short-Term Memory (LSTM) networks.
 - **Advanced Tools and Techniques**: Transfer learning, fine-tuning, and model evaluation metrics.
 
-**Researcher Level:**
+**Researcher Level (AI/ML Researcher):**
 - **Theoretical Deep Dive**: Advanced mathematics for deep learning, theory of optimization.
 - **Cutting-edge Research**: Reading and understanding research papers, contributions to open-source projects.
 
@@ -40,15 +40,15 @@ This roadmap is designed to help absolute beginners and those at different level
 
 ### **3. Core Generative Models**
 
-**Developer Level 1:**
+**Developer Level 1 (AI/ML Engineer):**
 - **Introduction to Generative Models**: Basic concepts and types (e.g., GANs, VAEs).
 - **Basic Implementations**: Simple implementations of GANs and VAEs in TensorFlow/PyTorch.
 
-**Developer Level 2:**
+**Developer Level 2 (AI/ML Developer) :**
 - **Advanced Generative Models**: Deep Convolutional GANs (DCGANs), Conditional GANs, and Variational Autoencoders (VAEs).
 - **Model Evaluation and Tuning**: Techniques for improving model performance and stability.
 
-**Researcher Level:**
+**Researcher Level (AI/ML Researcher) :**
 - **State-of-the-art Generative Models**: Exploring models like StyleGAN, BigGAN, GPT, and BERT.
 - **Innovative Techniques**: Novel architectures, loss functions, and training techniques.
 - **Research and Development**: Contributing to generative model research, conducting experiments, and publishing papers.
@@ -57,15 +57,15 @@ This roadmap is designed to help absolute beginners and those at different level
 
 ### **4. Developing Applications Powered by LLMs**
 
-**Developer Level 1:**
+**Developer Level 1 (AI/ML Engineer) :**
 - **Introduction to Large Language Models (LLMs)**: Basic concepts and use cases.
 - **APIs and Pre-trained Models**: Using pre-trained models and APIs (e.g., OpenAI GPT, Hugging Face Transformers).
 
-**Developer Level 2:**
+**Developer Level 2 (AI/ML Developer):**
 - **Custom Fine-tuning**: Fine-tuning pre-trained LLMs on specific tasks.
 - **Building Applications**: Developing chatbots, text generation tools, and other applications using LLMs.
 
-**Researcher Level:**
+**Researcher Level  (AI/ML Researcher) :**
 - **Model Customization and Optimization**: Creating custom models, optimizing for performance and efficiency.
 - **Advanced Applications**: Developing innovative applications and pushing the boundaries of what LLMs can do.
 
@@ -73,15 +73,15 @@ This roadmap is designed to help absolute beginners and those at different level
 
 ### **5. Projects and Practical Experience**
 
-**Developer Level 1:**
+**Developer Level 1 (AI/ML Engineer) :**
 - **Mini Projects**: Basic generative tasks like image generation, text completion, and simple chatbots.
 - **Collaborative Learning**: Participating in hackathons and study groups.
 
-**Developer Level 2:**
+**Developer Level 2 (AI/ML Developer) :**
 - **Intermediate Projects**: More complex projects involving custom datasets and advanced generative models.
 - **Real-world Applications**: Developing real-world applications and contributing to open-source projects.
 
-**Researcher Level:**
+**Researcher Level  (AI/ML Researcher) :**
 - **Research Projects**: Working on cutting-edge research projects, developing new models, and improving existing ones.
 - **Publications and Conferences**: Writing research papers, attending conferences, and presenting findings.
 
